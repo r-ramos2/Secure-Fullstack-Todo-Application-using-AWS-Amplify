@@ -43,6 +43,7 @@ In this project, we will build, secure, and deploy a fullstack **Todo applicatio
 **Step 1.1: Create the GitHub Repository**
 
 - Fork the official [AWS Amplify Vite-React starter template](https://github.com/aws-samples/amplify-vite-react-template) to your GitHub account.
+- Open [AWS Amplify Documentation](https://docs.amplify.aws/react/start/quickstart/).
   
 **Step 1.2: Deploy the App Using AWS Amplify**
 
